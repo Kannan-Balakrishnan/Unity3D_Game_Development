@@ -1,0 +1,142 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.3f1 (76626098c1c4) revision 7758432'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Enterprise; OS build 18363.1441; Version 1909; 64bit' Language: 'en' Physical Memory: 16303 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.3f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/uie00183/New Unity Project (1)
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+53489
+Successfully changed project path to: C:/Users/uie00183/New Unity Project (1)
+C:/Users/uie00183/New Unity Project (1)
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 56.54 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.3f1 (76626098c1c4)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/uie00183/New Unity Project (1)/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA Quadro M1000M (ID=0x13b1)
+    Vendor:   
+    VRAM:     2007 MB
+    Driver:   27.21.14.6109
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56428
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003583 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 41.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.011 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001790 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.297 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.11 seconds
+Refreshing native plugins compatible for Editor in 0.43 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1115 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.1 MB.
+System memory in use after: 57.2 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1557.
+Total: 3.283300 ms (FindLiveObjects: 0.303400 ms CreateObjectMapping: 0.094500 ms MarkObjects: 2.723300 ms  DeleteObjects: 0.160200 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scenes
+  artifactKey: Guid(c3dd4124f602b344db9f361f9869ed48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(c3dd4124f602b344db9f361f9869ed48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '967c0f923101a17456a6d4e9f9dac043') in 0.008238 seconds
+  Import took 0.016087 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1129.885958 seconds.
+  path: Assets/3Dmesh.fbx
+  artifactKey: Guid(aa5bc7eb583a8664f9cec61763022882) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3Dmesh.fbx using Guid(aa5bc7eb583a8664f9cec61763022882) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '509591ca3c71e62506919c3253934a84') in 0.152713 seconds
+  Import took 0.157586 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.031074 seconds.
+  path: Assets/3Dmesh.fbx
+  artifactKey: Guid(aa5bc7eb583a8664f9cec61763022882) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3Dmesh.fbx using Guid(aa5bc7eb583a8664f9cec61763022882) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3100369906576d5a84dde109e3fd60c') in 0.007279 seconds
+  Import took 0.010191 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003404 seconds.
+  path: Assets/3Dmesh.fbx
+  artifactKey: Guid(aa5bc7eb583a8664f9cec61763022882) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3Dmesh.fbx using Guid(aa5bc7eb583a8664f9cec61763022882) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3100369906576d5a84dde109e3fd60c') in 0.005267 seconds
+  Import took 0.008247 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 185.311773 seconds.
+  path: Assets/3Dmesh.fbx
+  artifactKey: Guid(aa5bc7eb583a8664f9cec61763022882) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3Dmesh.fbx using Guid(aa5bc7eb583a8664f9cec61763022882) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f87cd38a04b87ff7ac22ca1473a29db') in 0.633429 seconds
+  Import took 0.636472 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 72.476665 seconds.
+  path: Assets/3Dmesh.fbx
+  artifactKey: Guid(aa5bc7eb583a8664f9cec61763022882) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3Dmesh.fbx using Guid(aa5bc7eb583a8664f9cec61763022882) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52fa7d0a5a2f7b579425d7b42ddf92c6') in 0.029193 seconds
+  Import took 0.036392 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 267.562126 seconds.
+  path: Assets/3Dmesh.fbx
+  artifactKey: Guid(aa5bc7eb583a8664f9cec61763022882) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3Dmesh.fbx using Guid(aa5bc7eb583a8664f9cec61763022882) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51f79a5f4492492523506e44acc08d66') in 0.071556 seconds
+  Import took 0.074657 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 204.144284 seconds.
+  path: Assets/3Dmesh.fbx
+  artifactKey: Guid(aa5bc7eb583a8664f9cec61763022882) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3Dmesh.fbx using Guid(aa5bc7eb583a8664f9cec61763022882) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1032936cf22fe9ce483758e668fc844e') in 1.169065 seconds
+  Import took 1.178012 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
